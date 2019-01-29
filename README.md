@@ -66,3 +66,21 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### DK NOTES
+
+~~Following a tutorial on https://developer.okta.com/blog/2018/07/10/build-a-basic-crud-app-with-node-and-react~~
+
+~~Tutorial recommends using the Material UI Framework:~~
+
+~~`yarn add @material-ui/core@1.3.1`~~
+
+~~It also recommends using the Roboto font:~~
+
+~~`<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">`~~
+
+That app dev was about creating authenticaion with Okta.  Not a bad idea, but not what I want.  Read before you buy!
+
+Trying again from https://codeburst.io/redux-a-crud-example-abb834d763c9
+
+
