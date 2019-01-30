@@ -79,7 +79,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ~~`<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">`~~
 
-That app dev was about creating authenticaion with Okta.  Not a bad idea, but not what I want.  Read before you buy!
+That tutorial was about creating authenticaion with Okta.  Not a bad idea, but not what I want.  Read before you buy!
 
 Trying again from https://codeburst.io/redux-a-crud-example-abb834d763c9
 
